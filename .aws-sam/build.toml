@@ -8,6 +8,6 @@ architecture = "x86_64"
 handler = "com.maven.cicdhelloworld.helloword::handleRequest"
 manifest_hash = ""
 packagetype = "Zip"
-functions = ["AppFunction"]
+functions = ["HelloWorldFunction"]
 
 [layer_build_definitions]
